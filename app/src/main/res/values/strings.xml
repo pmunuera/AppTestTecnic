@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_festivals">Festivals</string>
+    <string name="title_news">News</string>
+    <string name="title_favs">Favs</string>
+    <string name="textButton">" "</string>
+    <string name="image">Image</string>
+    <string name="date">15 - 20 October 2020</string>
+    <string name="title">INCADAQUÉS 2020</string>
+    <string name="program">Program</string>
+    <string name="map">Map</string>
+    <string name="artworks">Artworks</string>
+</resources>
